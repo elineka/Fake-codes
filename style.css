@@ -1,0 +1,51 @@
+body{
+background-color: darkcyan;
+}
+h1{
+    color: rgb(245, 243, 243);
+    
+}
+.center{
+    text-align: center;
+}
+.menu{
+    background-color: white;
+text-align: center;
+font-size: 5mm;
+margin: 0px;
+padding: 2px;
+
+
+}
+
+.menuitem{
+    margin-right: 50px;
+    
+}
+.descr{
+    text-align: center;
+    margin-top: 1cm;
+    
+    
+}
+.c{
+    background-color: white;
+    padding: 1cm;
+   
+}
+.down{
+    text-align: center;
+}
+.pic{
+text-align: center;
+
+}
+.email{
+    margin-top: 2cm;
+}
+.cont{
+    background-color: white;
+}
+.tee{
+   background-color: #A2D9CE;
+}
